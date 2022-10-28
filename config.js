@@ -32,7 +32,7 @@ global.APIKeys = {
 
 // Other
 global.owner = ['6282324344519','62895322398819']
-global.ownernomer = "6282324344519,62895322398819"
+global.ownernomer = "6282324344519"
 global.premium = ['6282324344519','62895322398819']
 global.packname = 'Sticker By'
 global.author = 'Rilzz Dev'
